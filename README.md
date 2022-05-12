@@ -5,7 +5,7 @@
 
 
 <div align="center" id="top">
-  <img alt="Library" title="Library" src="./Library.gif"/>
+  <img alt="Library" title="Library" src="./Library.gif" width="1000"/>
 </h1>
 
  
