@@ -1,3 +1,9 @@
+<h4 align="center"> 
+
+	Clicar na imagem para melhor visualização
+</h4> 
+
+<hr> 
 
 
 
