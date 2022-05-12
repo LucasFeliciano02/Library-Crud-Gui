@@ -3,7 +3,7 @@
 	Clicar na imagem para melhor visualização
 </h4> 
 
-<hr> 
+
 
 
 
