@@ -65,6 +65,9 @@ As seguintes ferramentas 🛠 foram utilizadas na construção do projeto:
     <tr>
       <td>Tkinter</td>
     </tr> 
+    <tr>
+	<td>SQLite</td>
+    </tr>    
 	    
   </tbody>
 
