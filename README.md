@@ -1,14 +1,14 @@
 
 <!-- <h4 align="center"> 
 ---
-	🚧  Projeto Conversor de moedas 🚀 Em construção...  🚧
+	🚧  Projeto Livraria Pessoal 🚀 Em construção...  🚧
 </h4> 
 
 <hr> -->
 
 
 <div align="center" id="top">
-  <img alt="Gerador" title="Gerador" src="./conversor.gif"/>
+  <img alt="Library" title="Library" src="./Library.gif"/>
 </h1>
 
  
@@ -18,7 +18,7 @@
  </div>
  
 
- <h1 align="center">Conversor de moedas</h1>
+ <h1 align="center">Livraria Pessoal</h1>
  
  
 <p align="center">
