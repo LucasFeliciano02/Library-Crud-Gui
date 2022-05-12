@@ -78,7 +78,7 @@ As seguintes ferramentas 🛠 foram utilizadas na construção do projeto:
 
 
 Antes de começar 🏁, você vai precisar ter instalado em sua máquina as sequintes ferramentas:
-[Git](https://git-scm.com/downloads) e [Python](https://www.python.org/downloads/).
+[Git](https://git-scm.com/downloads), [Python](https://www.python.org/downloads/) e [DB Browser (SQLite)](https://sqlitebrowser.org/dl/).
 Além disto é bom ter um editor para trabalhar com o código, tal como: [VS Code](https://code.visualstudio.com/download)
 
 
