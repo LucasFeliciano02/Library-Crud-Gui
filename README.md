@@ -1,11 +1,10 @@
 <h4 align="center"> 
-
  	 Clicar na imagem para melhor visualização
 </h4> 
 
 
 <div align="center" id="top">
-  <img alt="Library" title="Library" src="./Library.gif" width="2000"/>
+  <img alt="Library" title="Library" src="./Library.gif" width="2000" height="500"/>
 </h1>
 
  
