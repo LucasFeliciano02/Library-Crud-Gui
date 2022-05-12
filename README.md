@@ -1,10 +1,7 @@
-
 <h4 align="center"> 
 
-	🚧  Projeto Livraria Pessoal 🚀 Em construção...  🚧
+ 	 Clicar na imagem para melhor visualização
 </h4> 
-
-<hr> 
 
 
 <div align="center" id="top">
@@ -113,7 +110,6 @@ Além disto é bom ter um editor para trabalhar com o código, tal como: [VS Cod
 
 
 <br>
-
 
 <!---### Autor --->
 
