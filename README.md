@@ -104,8 +104,6 @@ Além disto é bom ter um editor para trabalhar com o código, tal como: [VS Cod
  
 ### Utilizando o executável:
  -> mouse esquerdo no arquivo.exe ->  Criar atalho  ->  Abrir o app na área de trabalho  &  Enjoy
- 
-# Obs: Não foi possivel dar commit no arquivo executável pois é um arquivo pesado, ultrapassa o limite que o github suporta 
 ```
 
 
