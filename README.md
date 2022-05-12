@@ -38,7 +38,7 @@
 
 ```sh
 • Livraria pessoal feita com o intuito de alocar livros pessoais com seus registros e controle de estoque
-• É comum a empresta de livros, portanto no app também há a opção null de colocar o nome de quem alugou assim como a data que alugou e deve devolver
+• É comum a empresta de livros aqui em casa, portanto resolvi fazer esse app para minha mãe ter controle do que sai e do que entra
 ```
 
 ## :sparkles: Funcionalidades ##
@@ -104,6 +104,8 @@ Além disto é bom ter um editor para trabalhar com o código, tal como: [VS Cod
  
 ### Utilizando o executável:
  -> mouse esquerdo no arquivo.exe ->  Criar atalho  ->  Abrir o app na área de trabalho  &  Enjoy
+ 
+# Login: Lisa | Senha: Library
 ```
 
 
