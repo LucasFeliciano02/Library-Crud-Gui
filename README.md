@@ -37,7 +37,8 @@
 ## :dart: Sobre ##
 
 ```sh
-• Conversor de moedas feita em grafical user interface (tkinter). Á lógica utiliza de uma API de cotações para fazer as conversoes em tempo real
+• Livraria pessoal feita com o intuito de alocar livros pessoais com seus registros e controle de estoque
+• É comum a empresta de livros, portanto no app também há a opção null de colocar o nome de quem alugou assim como a data que alugou e deve devolver
 ```
 
 ## :sparkles: Funcionalidades ##
