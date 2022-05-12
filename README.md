@@ -1,10 +1,4 @@
 
-<h4 align="center"> 
-
-	🚧  Projeto Livraria Pessoal 🚀 Em construção...  🚧
-</h4> 
-
-<hr> 
 
 
 <div align="center" id="top">
