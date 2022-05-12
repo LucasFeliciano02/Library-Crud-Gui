@@ -44,8 +44,8 @@
 ## :sparkles: Funcionalidades ##
 
 
-:heavy_check_mark: Colocar a moeda 'de', moeda 'para', o valor, e converter;\
-:heavy_check_mark: Muito utilizavel para saber o valor de um produto por exemplo de dolar para real ou vice-versa;\
+:heavy_check_mark: Colocar livros da prateleira em um banco de dados com seu controle;\
+:heavy_check_mark: Possibilidade de colocar o nome da pessoa que pegou o livro emprestado, assim como a data de entrada e a de devolução;\
 :heavy_check_mark: Utilizar como aplicativo Executável em sua área de trabalho utilizando o auto-py-to-exe - PyPI:\
 
 ## :rocket: Tecnologias ##
