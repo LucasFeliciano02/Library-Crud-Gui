@@ -1,7 +1,7 @@
 
 <h4 align="center"> 
 
-	🚧 Clicar na imagem para melhor visualização  🚧
+	🚧 Abrir imagem em uma nova guia para melhor visualização  🚧
 </h4>
 
 
