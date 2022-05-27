@@ -7,9 +7,9 @@
 
 
 <div align="center" id="top">
-  <img alt="Library" title="Library" src="./Library.gif" [https://github.com/LucasFeliciano02/Library-Crud-Gui/blob/main/Library.gif]/>
+  <img alt="Library" title="Library" src="./Library.gif"/>
 </h1>
-
+<a href="https://raw.githubusercontent.com/LucasFeliciano02/Library-Crud-Gui/main/Library.gif" target="_blank"><img src="./Library.gif"></a>
  
   &#xa0;
  
