@@ -1,15 +1,12 @@
+<h4 align="center">
 
-<h4 align="center"> 
+[Clicar para melhor visualização](https://raw.githubusercontent.com/LucasFeliciano02/Library-Crud-Gui/main/Library.gif)
 
-	🚧 Clicar na imagem para melhor visualização  🚧
-</h4>
-
-
+</h4>	
 
 <div align="center" id="top">
   <img alt="Library" title="Library" src="./Library.gif"/>
 </h1>
-
  
   &#xa0;
  
